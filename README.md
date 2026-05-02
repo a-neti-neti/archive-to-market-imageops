@@ -372,35 +372,6 @@ For an unsupervised layer, the grouping was genuinely useful. It did not replace
 
 That is the kind of help I actually care about from AI in a workflow like this: not false autonomy, but better review surfaces.
 
-## AI helped most where scale and ambiguity were the problem
-
-AI and automation were useful in places where the archive was too large, too ambiguous, or too repetitive for pure manual handling.
-
-They helped with:
-
-- inventory support;
-- diagnostics;
-- grouping;
-- clustering;
-- routing logic;
-- structured review;
-- identifying candidate families;
-- reducing the amount of blind manual scanning.
-
-But the core decisions still needed a person:
-
-- what has force;
-- what feels dead;
-- what distortion is intentional;
-- how far a repair can go without breaking authenticity;
-- which lane an image belongs to;
-- which output makes sense;
-- whether an image deserves a future at all.
-
-That human part did not disappear.
-
-It became more visible.
-
 ## Future upgrades I would add next
 
 The first version of this workflow was deliberately lightweight: repo structure, CSVs, scripts, diagnostics, clustering experiments, research notes, and human review.
