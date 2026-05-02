@@ -124,38 +124,8 @@ But for a small creative archive, that is already useful. Many archives fail bef
 
 ## Why GitHub
 
-The repository is not presented as a finished DAM product.
-
-GitHub is useful here because the project is mostly about structure, repeatability, and decision logic.
-
-A visual archive workflow benefits from the same habits that make software projects legible:
-
-- separated source and working files;
-- documented rules;
-- versioned decision matrices;
-- small scripts instead of invisible manual repetition;
-- reproducible folder structure;
-- clear outputs and reports;
-- a roadmap that distinguishes implemented logic from future upgrades.
-
-In other words, GitHub is not here to say "this is production software."
-
-It is here to make the thinking inspectable.
-
-## Technical insert - project structure
-
-I kept the system visible through a simple repo structure, and the point of this structure was not to make the project look more technical than it was. The point was to keep the work separated into clear layers:
-
-- `source/` for original files;
-- `00_docs/` for rules and decision logic;
-- `01_data/` for CSV matrices;
-- `02_images/` for sample batches and working copies;
-- `03_scripts/` for automation helpers;
-- `04_outputs/` for reports and handoffs;
-- `05_research/` for target research and route validation;
-- `06_sales_assets/` for outreach, website copy, and commercial materials.
-
-This helped keep the project from collapsing into one giant folder of images, notes, and half-remembered decisions.
+This is not a software repo or a finished product repo.  
+GitHub is used here as a public case-study space for the article, appendices, and selected visual examples.
 
 ## The CSV layer became the operating backbone
 
