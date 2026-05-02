@@ -511,3 +511,21 @@ The direction is serious.
 - [Appendix B - Pipeline and Technical Workflow](appendices/appendix_b_pipeline_technical_workflow.md)
 - [Appendix C - Technical Stack](appendices/appendix_c_technical_stack.md)
 - [Appendix D - Suggested Positioning Tags](appendices/appendix_d_positioning_tags.md)
+
+---
+
+## Visual examples
+
+Selected visual examples and mockups are included in the `/images` folder.
+
+They are not the main product of this case study. They are supporting artifacts used to show how the workflow handled different image routes, treatment choices, and output lanes.
+
+### Included examples
+
+- **Watercolor / Ink Abstraction** — abstract print candidate; used to test preparation, upscale logic, and art-sales / decor routing.
+- **Laundry (B&W)** — exhibition-style derivative; used to test prestige / signal and direct art-sales presentation.
+- **Magic Garden** — mood-driven image routed toward editorial / publishing / licensing, including book-cover-style presentation.
+- **Clustering / Review Surfaces** — supporting workflow visuals showing how semantic grouping was used as a review aid.
+- **Technical Diagnostics** — supporting technical visuals showing how OpenCV-derived cues informed repair and routing decisions.
+
+Mockups are included as route-testing artifacts rather than proof of a finished commercial release. Their role is to show plausible placement contexts for different image lanes.
