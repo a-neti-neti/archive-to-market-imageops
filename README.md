@@ -532,26 +532,6 @@ The accidental part is funny.
 
 The direction is serious.
 
-## What the project actually proved
-
-The project did not end as a fully deployed DAM platform.
-
-It ended as something smaller and, for this stage, more useful: a manual-first mini-DAM and ImageOps decision framework built from a real archive problem.
-
-The archive forced the system into existence.
-
-The tools helped.
-
-The code supported the structure.
-
-AI made some review surfaces faster and some visual tests stronger.
-
-But the core value was judgment: deciding what an image is, what it can become, how far it can be repaired, what output it deserves, and where it should go next.
-
-The archive was not the product.
-
-The decision system was.
-
 ---
 
 ## Appendices
@@ -560,4 +540,3 @@ The decision system was.
 - [Appendix B - Pipeline and Technical Workflow](appendices/appendix_b_pipeline_technical_workflow.md)
 - [Appendix C - Technical Stack](appendices/appendix_c_technical_stack.md)
 - [Appendix D - Suggested Positioning Tags](appendices/appendix_d_positioning_tags.md)
-- [Appendix E - Image Placement Plan](appendices/appendix_e_image_placement_plan.md)
