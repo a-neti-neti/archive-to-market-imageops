@@ -1,4 +1,4 @@
-# I Accidentally Built a Mini-DAM on a Knee
+# I Accidentally Built a Mini-DAM: Turning a Messy Photo Archive into a Decision System
 
 ## The archive was not the product. The decision system was.
 
