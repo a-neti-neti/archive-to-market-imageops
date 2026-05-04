@@ -1,5 +1,11 @@
 # I Accidentally Built a Mini-DAM: Turning a Messy Photo Archive into a Decision System
 
+## Status
+
+This is a public case-study repository, not a finished software product.
+
+The goal is to document a manual-first ImageOps / mini-DAM workflow for organizing, triaging, and routing a messy photo archive. Some parts were implemented as scripts and structured files; other parts remain roadmap or future improvements.
+
 ## The archive was not the product. The decision system was.
 
 > A field-built ImageOps case study on turning a messy photo archive into a decision system with developer tools, AI assistance, and human judgment.
